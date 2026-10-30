@@ -1,0 +1,39 @@
+{
+ "_doc": "Abertura das Fendas Espaço-Tempo por região: regra de intervalo (âncora + a cada N minutos + janela).",
+ "atualizado": "2026-10-07",
+ "regioes": [
+  {
+   "id": "global",
+   "nome": "Global (NA · EU)",
+   "fuso": "Asia/Seoul",
+   "regra": {
+    "kind": "interval",
+    "anchor": "2026-10-07T00:00:00Z",
+    "everyMinutes": 180,
+    "durationMinutes": 10
+   }
+  },
+  {
+   "id": "kr",
+   "nome": "Korea",
+   "fuso": "Asia/Seoul",
+   "regra": {
+    "kind": "interval",
+    "anchor": "2026-10-06T17:00:00Z",
+    "everyMinutes": 180,
+    "durationMinutes": 10
+   }
+  },
+  {
+   "id": "tw",
+   "nome": "Taiwan",
+   "fuso": "Asia/Taipei",
+   "regra": {
+    "kind": "interval",
+    "anchor": "2026-10-06T18:00:00Z",
+    "everyMinutes": 180,
+    "durationMinutes": 10
+   }
+  }
+ ]
+}

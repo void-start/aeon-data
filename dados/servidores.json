@@ -1,0 +1,542 @@
+{
+ "_doc": "Servidores do AION 2 Global (nome, região, raça e par) e os resets. A raça e a região do seu servidor também saem do número dele (>= 2000 Asmodiano; centenas: 1 NA-L, 2 NA-O, 3 EU, 4 AS-Sul, 5 Ásia).",
+ "atualizado": "2026-10-07",
+ "servidores": [
+  {
+   "nome": "Siel",
+   "regiao": "EU",
+   "raca": "elyos",
+   "par": "Israphel"
+  },
+  {
+   "nome": "Nezekan",
+   "regiao": "EU",
+   "raca": "elyos",
+   "par": "Zikel"
+  },
+  {
+   "nome": "Vaizel",
+   "regiao": "EU",
+   "raca": "elyos",
+   "par": "Triniel"
+  },
+  {
+   "nome": "Kaisinel",
+   "regiao": "EU",
+   "raca": "elyos",
+   "par": "Lumiel"
+  },
+  {
+   "nome": "Yustiel",
+   "regiao": "EU",
+   "raca": "elyos",
+   "par": "Marchutan"
+  },
+  {
+   "nome": "Ariel",
+   "regiao": "EU",
+   "raca": "elyos",
+   "par": "Azphel"
+  },
+  {
+   "nome": "Fregion",
+   "regiao": "EU",
+   "raca": "elyos",
+   "par": "Ereshkigal"
+  },
+  {
+   "nome": "Meslamtaeda",
+   "regiao": "EU",
+   "raca": "elyos",
+   "par": "Beritra"
+  },
+  {
+   "nome": "Hithanya",
+   "regiao": "EU",
+   "raca": "elyos",
+   "par": "Nemon"
+  },
+  {
+   "nome": "Israphel",
+   "regiao": "EU",
+   "raca": "asmodian",
+   "par": "Siel"
+  },
+  {
+   "nome": "Zikel",
+   "regiao": "EU",
+   "raca": "asmodian",
+   "par": "Nezekan"
+  },
+  {
+   "nome": "Triniel",
+   "regiao": "EU",
+   "raca": "asmodian",
+   "par": "Vaizel"
+  },
+  {
+   "nome": "Lumiel",
+   "regiao": "EU",
+   "raca": "asmodian",
+   "par": "Kaisinel"
+  },
+  {
+   "nome": "Marchutan",
+   "regiao": "EU",
+   "raca": "asmodian",
+   "par": "Yustiel"
+  },
+  {
+   "nome": "Azphel",
+   "regiao": "EU",
+   "raca": "asmodian",
+   "par": "Ariel"
+  },
+  {
+   "nome": "Ereshkigal",
+   "regiao": "EU",
+   "raca": "asmodian",
+   "par": "Fregion"
+  },
+  {
+   "nome": "Beritra",
+   "regiao": "EU",
+   "raca": "asmodian",
+   "par": "Meslamtaeda"
+  },
+  {
+   "nome": "Nemon",
+   "regiao": "EU",
+   "raca": "asmodian",
+   "par": "Hithanya"
+  },
+  {
+   "nome": "Nania",
+   "regiao": "EU",
+   "raca": "elyos",
+   "par": "Hadala"
+  },
+  {
+   "nome": "Tahavatha",
+   "regiao": "EU",
+   "raca": "elyos",
+   "par": "Ludra"
+  },
+  {
+   "nome": "Luteros",
+   "regiao": "EU",
+   "raca": "elyos",
+   "par": "Ulgorn"
+  },
+  {
+   "nome": "Phernos",
+   "regiao": "EU",
+   "raca": "elyos",
+   "par": "Munin"
+  },
+  {
+   "nome": "Daminu",
+   "regiao": "EU",
+   "raca": "elyos",
+   "par": "Odar"
+  },
+  {
+   "nome": "Kasaka",
+   "regiao": "EU",
+   "raca": "elyos",
+   "par": "Zemurru"
+  },
+  {
+   "nome": "Bakarma",
+   "regiao": "EU",
+   "raca": "elyos",
+   "par": "Kromede"
+  },
+  {
+   "nome": "Tsenka",
+   "regiao": "EU",
+   "raca": "elyos",
+   "par": "Quai"
+  },
+  {
+   "nome": "Kochi",
+   "regiao": "EU",
+   "raca": "elyos",
+   "par": "Baba"
+  },
+  {
+   "nome": "Hadala",
+   "regiao": "EU",
+   "raca": "asmodian",
+   "par": "Nania"
+  },
+  {
+   "nome": "Ludra",
+   "regiao": "EU",
+   "raca": "asmodian",
+   "par": "Tahavatha"
+  },
+  {
+   "nome": "Ulgorn",
+   "regiao": "EU",
+   "raca": "asmodian",
+   "par": "Luteros"
+  },
+  {
+   "nome": "Munin",
+   "regiao": "EU",
+   "raca": "asmodian",
+   "par": "Phernos"
+  },
+  {
+   "nome": "Odar",
+   "regiao": "EU",
+   "raca": "asmodian",
+   "par": "Daminu"
+  },
+  {
+   "nome": "Zemurru",
+   "regiao": "EU",
+   "raca": "asmodian",
+   "par": "Kasaka"
+  },
+  {
+   "nome": "Kromede",
+   "regiao": "EU",
+   "raca": "asmodian",
+   "par": "Bakarma"
+  },
+  {
+   "nome": "Quai",
+   "regiao": "EU",
+   "raca": "asmodian",
+   "par": "Tsenka"
+  },
+  {
+   "nome": "Baba",
+   "regiao": "EU",
+   "raca": "asmodian",
+   "par": "Kochi"
+  },
+  {
+   "nome": "Siel",
+   "regiao": "NA West",
+   "raca": "elyos",
+   "par": null
+  },
+  {
+   "nome": "Nezekan",
+   "regiao": "NA West",
+   "raca": "elyos",
+   "par": null
+  },
+  {
+   "nome": "Israphel",
+   "regiao": "NA West",
+   "raca": "asmodian",
+   "par": null
+  },
+  {
+   "nome": "Zikel",
+   "regiao": "NA West",
+   "raca": "asmodian",
+   "par": null
+  },
+  {
+   "nome": "Vaizel",
+   "regiao": "NA West",
+   "raca": "elyos",
+   "par": null
+  },
+  {
+   "nome": "Kaisinel",
+   "regiao": "NA West",
+   "raca": "elyos",
+   "par": null
+  },
+  {
+   "nome": "Yustiel",
+   "regiao": "NA West",
+   "raca": "elyos",
+   "par": null
+  },
+  {
+   "nome": "Triniel",
+   "regiao": "NA West",
+   "raca": "asmodian",
+   "par": null
+  },
+  {
+   "nome": "Lumiel",
+   "regiao": "NA West",
+   "raca": "asmodian",
+   "par": null
+  },
+  {
+   "nome": "Marchutan",
+   "regiao": "NA West",
+   "raca": "asmodian",
+   "par": null
+  },
+  {
+   "nome": "Siel",
+   "regiao": "NA East",
+   "raca": "elyos",
+   "par": null
+  },
+  {
+   "nome": "Nezekan",
+   "regiao": "NA East",
+   "raca": "elyos",
+   "par": null
+  },
+  {
+   "nome": "Vaizel",
+   "regiao": "NA East",
+   "raca": "elyos",
+   "par": null
+  },
+  {
+   "nome": "Israphel",
+   "regiao": "NA East",
+   "raca": "asmodian",
+   "par": null
+  },
+  {
+   "nome": "Zikel",
+   "regiao": "NA East",
+   "raca": "asmodian",
+   "par": null
+  },
+  {
+   "nome": "Triniel",
+   "regiao": "NA East",
+   "raca": "asmodian",
+   "par": null
+  },
+  {
+   "nome": "Kaisinel",
+   "regiao": "NA East",
+   "raca": "elyos",
+   "par": null
+  },
+  {
+   "nome": "Yustiel",
+   "regiao": "NA East",
+   "raca": "elyos",
+   "par": null
+  },
+  {
+   "nome": "Ariel",
+   "regiao": "NA East",
+   "raca": "elyos",
+   "par": null
+  },
+  {
+   "nome": "Fregion",
+   "regiao": "NA East",
+   "raca": "elyos",
+   "par": null
+  },
+  {
+   "nome": "Meslamtaeda",
+   "regiao": "NA East",
+   "raca": "elyos",
+   "par": null
+  },
+  {
+   "nome": "Lumiel",
+   "regiao": "NA East",
+   "raca": "asmodian",
+   "par": null
+  },
+  {
+   "nome": "Marchutan",
+   "regiao": "NA East",
+   "raca": "asmodian",
+   "par": null
+  },
+  {
+   "nome": "Azphel",
+   "regiao": "NA East",
+   "raca": "asmodian",
+   "par": null
+  },
+  {
+   "nome": "Ereshkigal",
+   "regiao": "NA East",
+   "raca": "asmodian",
+   "par": null
+  },
+  {
+   "nome": "Beritra",
+   "regiao": "NA East",
+   "raca": "asmodian",
+   "par": null
+  },
+  {
+   "nome": "Siel",
+   "regiao": "Latin America",
+   "raca": "elyos",
+   "par": null
+  },
+  {
+   "nome": "Nezekan",
+   "regiao": "Latin America",
+   "raca": "elyos",
+   "par": null
+  },
+  {
+   "nome": "Israphel",
+   "regiao": "Latin America",
+   "raca": "asmodian",
+   "par": null
+  },
+  {
+   "nome": "Zikel",
+   "regiao": "Latin America",
+   "raca": "asmodian",
+   "par": null
+  },
+  {
+   "nome": "Vaizel",
+   "regiao": "Latin America",
+   "raca": "elyos",
+   "par": null
+  },
+  {
+   "nome": "Kaisinel",
+   "regiao": "Latin America",
+   "raca": "elyos",
+   "par": null
+  },
+  {
+   "nome": "Yustiel",
+   "regiao": "Latin America",
+   "raca": "elyos",
+   "par": null
+  },
+  {
+   "nome": "Ariel",
+   "regiao": "Latin America",
+   "raca": "elyos",
+   "par": null
+  },
+  {
+   "nome": "Triniel",
+   "regiao": "Latin America",
+   "raca": "asmodian",
+   "par": null
+  },
+  {
+   "nome": "Lumiel",
+   "regiao": "Latin America",
+   "raca": "asmodian",
+   "par": null
+  },
+  {
+   "nome": "Marchutan",
+   "regiao": "Latin America",
+   "raca": "asmodian",
+   "par": null
+  },
+  {
+   "nome": "Azphel",
+   "regiao": "Latin America",
+   "raca": "asmodian",
+   "par": null
+  },
+  {
+   "nome": "Siel",
+   "regiao": "Asia",
+   "raca": "elyos",
+   "par": null
+  },
+  {
+   "nome": "Nezekan",
+   "regiao": "Asia",
+   "raca": "elyos",
+   "par": null
+  },
+  {
+   "nome": "Vaizel",
+   "regiao": "Asia",
+   "raca": "elyos",
+   "par": null
+  },
+  {
+   "nome": "Israphel",
+   "regiao": "Asia",
+   "raca": "asmodian",
+   "par": null
+  },
+  {
+   "nome": "Zikel",
+   "regiao": "Asia",
+   "raca": "asmodian",
+   "par": null
+  },
+  {
+   "nome": "Triniel",
+   "regiao": "Asia",
+   "raca": "asmodian",
+   "par": null
+  },
+  {
+   "nome": "Kaisinel",
+   "regiao": "Asia",
+   "raca": "elyos",
+   "par": null
+  },
+  {
+   "nome": "Yustiel",
+   "regiao": "Asia",
+   "raca": "elyos",
+   "par": null
+  },
+  {
+   "nome": "Ariel",
+   "regiao": "Asia",
+   "raca": "elyos",
+   "par": null
+  },
+  {
+   "nome": "Lumiel",
+   "regiao": "Asia",
+   "raca": "asmodian",
+   "par": null
+  },
+  {
+   "nome": "Marchutan",
+   "regiao": "Asia",
+   "raca": "asmodian",
+   "par": null
+  },
+  {
+   "nome": "Azphel",
+   "regiao": "Asia",
+   "raca": "asmodian",
+   "par": null
+  }
+ ],
+ "resets": [
+  {
+   "nome": "Daily reset",
+   "regra": {
+    "kind": "interval",
+    "anchor": "2026-10-07T07:00:00Z",
+    "everyMinutes": 1440,
+    "durationMinutes": 1
+   }
+  },
+  {
+   "nome": "Weekly reset",
+   "regra": {
+    "kind": "interval",
+    "anchor": "2026-10-07T07:00:00Z",
+    "everyMinutes": 10080,
+    "durationMinutes": 1
+   }
+  }
+ ]
+}
