@@ -1,7 +1,7 @@
 {
  "formato": 1,
- "versao": "2026.10.30.0357",
- "gerado_em": "2026-10-30T03:57:06+00:00",
+ "versao": "2026.10.30.0501",
+ "gerado_em": "2026-10-30T05:01:28+00:00",
  "url_base": "https://raw.githubusercontent.com/void-start/aeon-data/main",
  "creditos": [
   {
@@ -25,8 +25,8 @@
    "bytes": 787
   },
   "dados/mapas.json": {
-   "sha256": "73bb0883333b8e85d2ec87b7463793a89cb2cf02c13c9d730799ab228d6471ad",
-   "bytes": 2747
+   "sha256": "5cfc445339d71f8a9564d117a562041ead3836bbd7dd51824a54b2176ca5d365",
+   "bytes": 3255
   },
   "dados/mobs-por-mapa.json": {
    "sha256": "4068f983d55d600b2774e79204348dd568addbba8b0d93b7f3ec4a51989cd206",
@@ -35,6 +35,42 @@
   "dados/servidores.json": {
    "sha256": "7fbefc537f32910d0dd55df9c6d78f8b453d95247929539034587e0a5e250d95",
    "bytes": 8474
+  },
+  "mapas/Abyss_Reshanta_A.zip": {
+   "sha256": "1e461e95496a515a714172d90cd787e99fafdb4f11c6a64400146ed797af5947",
+   "bytes": 1390315
+  },
+  "mapas/Abyss_Reshanta_C.zip": {
+   "sha256": "e289923e62f26b54df3a11a4a1942a57fe1a20a36d76dbf36122f275f5365d28",
+   "bytes": 529759
+  },
+  "mapas/Abyss_Reshanta_D.zip": {
+   "sha256": "884ecd3dde976279fa301433993301c30c25cb92b0b3881a12727c9292f8b4bc",
+   "bytes": 471480
+  },
+  "mapas/World_D_A.zip": {
+   "sha256": "989fbb359a7d0d5dfa271870741ccaccb01a7c586b3a9ac506e467f0a6cf2909",
+   "bytes": 6464344
+  },
+  "mapas/World_D_B.zip": {
+   "sha256": "e63f65865e4c0cce50225cf9000ad33d28f1fdcfc47400b7312f5f3bcff39e18",
+   "bytes": 6705756
+  },
+  "mapas/World_D_Starter.zip": {
+   "sha256": "f0533c94d9b74735209f98b7f9620d1dfc4a1fca3156550d86ffb2619c144bcf",
+   "bytes": 2838444
+  },
+  "mapas/World_L_A.zip": {
+   "sha256": "e5c553aa3286f1053ed4100e9b7ff6ab3e017e8296831e6286d633dafa839c29",
+   "bytes": 5899274
+  },
+  "mapas/World_L_B.zip": {
+   "sha256": "c220c36f7fc1a16f3a8308ad111e5d9f56879caddd39f1a8ada64b9a27fa5769",
+   "bytes": 6936104
+  },
+  "mapas/World_L_Starter.zip": {
+   "sha256": "7015ab826fbfa1d9a0dd27277cb5174927355c9ff0158e469dfa2c7c3edadef9",
+   "bytes": 1521407
   }
  }
 }

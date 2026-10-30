@@ -12,7 +12,9 @@
    "origem_x": 2048.0,
    "origem_y": 2048.0,
    "calibracao": "aproximada",
-   "zonas": []
+   "zonas": [],
+   "pacote": "mapas/World_L_Starter.zip",
+   "blocos": 16
   },
   "World_L_A": {
    "nome": "Verteron",
@@ -28,7 +30,9 @@
    "zonas": [
     1010,
     902
-   ]
+   ],
+   "pacote": "mapas/World_L_A.zip",
+   "blocos": 64
   },
   "World_L_B": {
    "nome": "Eltnen",
@@ -43,7 +47,9 @@
    "calibracao": "aproximada",
    "zonas": [
     1011
-   ]
+   ],
+   "pacote": "mapas/World_L_B.zip",
+   "blocos": 64
   },
   "World_D_Starter": {
    "nome": "Ishalgen",
@@ -56,7 +62,9 @@
    "origem_x": 4096.23,
    "origem_y": 4095.68,
    "calibracao": "aproximada",
-   "zonas": []
+   "zonas": [],
+   "pacote": "mapas/World_D_Starter.zip",
+   "blocos": 64
   },
   "World_D_A": {
    "nome": "Altgard",
@@ -72,7 +80,9 @@
    "zonas": [
     1110,
     901
-   ]
+   ],
+   "pacote": "mapas/World_D_A.zip",
+   "blocos": 64
   },
   "World_D_B": {
    "nome": "Morheim",
@@ -87,7 +97,9 @@
    "calibracao": "aproximada",
    "zonas": [
     1111
-   ]
+   ],
+   "pacote": "mapas/World_D_B.zip",
+   "blocos": 64
   },
   "Abyss_Reshanta_A": {
    "nome": "Chaotic Lower Reshanta",
@@ -102,7 +114,9 @@
    "calibracao": "aproximada",
    "zonas": [
     20
-   ]
+   ],
+   "pacote": "mapas/Abyss_Reshanta_A.zip",
+   "blocos": 16
   },
   "Abyss_Reshanta_C": {
    "nome": "Chaotic Middle Reshanta",
@@ -115,7 +129,9 @@
    "origem_x": 1024.0,
    "origem_y": 1024.0,
    "calibracao": "aproximada",
-   "zonas": []
+   "zonas": [],
+   "pacote": "mapas/Abyss_Reshanta_C.zip",
+   "blocos": 4
   },
   "Abyss_Reshanta_D": {
    "nome": "Chaotic Upper Reshanta",
@@ -128,7 +144,9 @@
    "origem_x": 1024.0,
    "origem_y": 1024.0,
    "calibracao": "aproximada",
-   "zonas": []
+   "zonas": [],
+   "pacote": "mapas/Abyss_Reshanta_D.zip",
+   "blocos": 4
   }
  }
 }
