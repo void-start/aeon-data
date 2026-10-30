@@ -1,0 +1,14 @@
+{
+ "_doc": "Tipos de mob (template do 0x3641) de cada mapa, para achar o mapa pelos mobs em volta.",
+ "mapas": {
+  "World_L_Starter": [],
+  "World_L_A": [],
+  "World_L_B": [],
+  "World_D_Starter": [],
+  "World_D_A": [],
+  "World_D_B": [],
+  "Abyss_Reshanta_A": [],
+  "Abyss_Reshanta_C": [],
+  "Abyss_Reshanta_D": []
+ }
+}

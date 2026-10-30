@@ -1,0 +1,134 @@
+{
+ "_doc": "Mapas do fundo do radar: tamanho, grade × grade blocos de 1024 px (mapas/<mapa>.zip), calibração (pixel = pixels_por_metro × metros + origem; x leste, y sul) e as zonas do 0x3621 que usam o mapa.",
+ "mapas": {
+  "World_L_Starter": {
+   "nome": "Poeta",
+   "raca": "Light",
+   "tipo": "field",
+   "tamanho": 4096,
+   "grade": 4,
+   "bloco": 1024,
+   "pixels_por_metro": 1.003496,
+   "origem_x": 2048.0,
+   "origem_y": 2048.0,
+   "calibracao": "aproximada",
+   "zonas": []
+  },
+  "World_L_A": {
+   "nome": "Verteron",
+   "raca": "Light",
+   "tipo": "field",
+   "tamanho": 8192,
+   "grade": 8,
+   "bloco": 1024,
+   "pixels_por_metro": 1.003496,
+   "origem_x": 4096.23,
+   "origem_y": 4095.68,
+   "calibracao": "aproximada",
+   "zonas": [
+    1010,
+    902
+   ]
+  },
+  "World_L_B": {
+   "nome": "Eltnen",
+   "raca": "Light",
+   "tipo": "field",
+   "tamanho": 8192,
+   "grade": 8,
+   "bloco": 1024,
+   "pixels_por_metro": 1.003496,
+   "origem_x": 4096.23,
+   "origem_y": 4095.68,
+   "calibracao": "aproximada",
+   "zonas": [
+    1011
+   ]
+  },
+  "World_D_Starter": {
+   "nome": "Ishalgen",
+   "raca": "Dark",
+   "tipo": "field",
+   "tamanho": 8192,
+   "grade": 8,
+   "bloco": 1024,
+   "pixels_por_metro": 1.003496,
+   "origem_x": 4096.23,
+   "origem_y": 4095.68,
+   "calibracao": "aproximada",
+   "zonas": []
+  },
+  "World_D_A": {
+   "nome": "Altgard",
+   "raca": "Dark",
+   "tipo": "field",
+   "tamanho": 8192,
+   "grade": 8,
+   "bloco": 1024,
+   "pixels_por_metro": 1.003496,
+   "origem_x": 4096.23,
+   "origem_y": 4095.68,
+   "calibracao": "conferida",
+   "zonas": [
+    1110,
+    901
+   ]
+  },
+  "World_D_B": {
+   "nome": "Morheim",
+   "raca": "Dark",
+   "tipo": "field",
+   "tamanho": 8192,
+   "grade": 8,
+   "bloco": 1024,
+   "pixels_por_metro": 1.003496,
+   "origem_x": 4096.23,
+   "origem_y": 4095.68,
+   "calibracao": "aproximada",
+   "zonas": [
+    1111
+   ]
+  },
+  "Abyss_Reshanta_A": {
+   "nome": "Chaotic Lower Reshanta",
+   "raca": "All",
+   "tipo": "abyss",
+   "tamanho": 4096,
+   "grade": 4,
+   "bloco": 1024,
+   "pixels_por_metro": 1.003496,
+   "origem_x": 2048.0,
+   "origem_y": 2048.0,
+   "calibracao": "aproximada",
+   "zonas": [
+    20
+   ]
+  },
+  "Abyss_Reshanta_C": {
+   "nome": "Chaotic Middle Reshanta",
+   "raca": "All",
+   "tipo": "abyss",
+   "tamanho": 2048,
+   "grade": 2,
+   "bloco": 1024,
+   "pixels_por_metro": 1.003496,
+   "origem_x": 1024.0,
+   "origem_y": 1024.0,
+   "calibracao": "aproximada",
+   "zonas": []
+  },
+  "Abyss_Reshanta_D": {
+   "nome": "Chaotic Upper Reshanta",
+   "raca": "All",
+   "tipo": "abyss",
+   "tamanho": 2048,
+   "grade": 2,
+   "bloco": 1024,
+   "pixels_por_metro": 1.003496,
+   "origem_x": 1024.0,
+   "origem_y": 1024.0,
+   "calibracao": "aproximada",
+   "zonas": []
+  }
+ }
+}
