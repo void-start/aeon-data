@@ -1,7 +1,7 @@
 {
  "formato": 1,
- "versao": "2026.10.30.0501",
- "gerado_em": "2026-10-30T05:01:28+00:00",
+ "versao": "2026.10.30.0502",
+ "gerado_em": "2026-10-30T05:02:56+00:00",
  "url_base": "https://raw.githubusercontent.com/void-start/aeon-data/main",
  "creditos": [
   {
@@ -12,13 +12,13 @@
   {
    "nome": "aion2-data / Aion2 Atlas",
    "url": "https://aion2atlas.app/map/",
-   "uso": "servidores, resets, fendas (CC BY 4.0) e cubos ocultos de Verteron e Altgard"
+   "uso": "servidores, resets, fendas (CC BY 4.0)"
   }
  ],
  "arquivos": {
   "dados/cubos.json": {
-   "sha256": "9a87f0ddeb935f658ab08d9819d40bfec9f909df33a580445f99b735b66f13b7",
-   "bytes": 129175
+   "sha256": "9da904ad1ff1e53e351cca5f31c70ab1d9245e894de30382090a4f9e9af4863e",
+   "bytes": 124183
   },
   "dados/fendas.json": {
    "sha256": "007f615629fb331aced62c93edea98c99a5a297177d49a0865cb05c043f940f7",
@@ -29,8 +29,8 @@
    "bytes": 3255
   },
   "dados/mobs-por-mapa.json": {
-   "sha256": "4068f983d55d600b2774e79204348dd568addbba8b0d93b7f3ec4a51989cd206",
-   "bytes": 321
+   "sha256": "c16e62fb5f5c3b1abddf13deeac10be0f68228cebe2c988e5824946d99709cc2",
+   "bytes": 43179
   },
   "dados/servidores.json": {
    "sha256": "7fbefc537f32910d0dd55df9c6d78f8b453d95247929539034587e0a5e250d95",
