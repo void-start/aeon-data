@@ -1,7 +1,7 @@
 {
  "formato": 1,
- "versao": "2026.10.30.1412",
- "gerado_em": "2026-10-30T14:12:48+00:00",
+ "versao": "2026.10.30.1523",
+ "gerado_em": "2026-10-30T15:23:49+00:00",
  "url_base": "https://raw.githubusercontent.com/void-start/aeon-data/main",
  "creditos": [
   {
@@ -12,17 +12,13 @@
   {
    "nome": "aion2-data / Aion2 Atlas",
    "url": "https://aion2atlas.app/map/",
-   "uso": "servidores, resets, fendas e agenda de eventos (CC BY 4.0)"
+   "uso": "servidores, resets e fendas (CC BY 4.0)"
   }
  ],
  "arquivos": {
   "dados/cubos.json": {
    "sha256": "9da904ad1ff1e53e351cca5f31c70ab1d9245e894de30382090a4f9e9af4863e",
    "bytes": 124183
-  },
-  "dados/eventos.json": {
-   "sha256": "4fc0bf7a2ef979c64e0ec18400768f0de3a54a55b77c1b8e0c97782f93e5a7d4",
-   "bytes": 2010
   },
   "dados/fendas.json": {
    "sha256": "007f615629fb331aced62c93edea98c99a5a297177d49a0865cb05c043f940f7",
