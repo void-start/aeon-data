@@ -1,0 +1,84 @@
+{
+ "_doc": "Agenda de eventos (fenda, Shugo, Beritra, chefes, resets) dos servidores globais: âncora em UTC + a cada N minutos + janela. Confiança: confirmed = conferido, likely = provável.",
+ "atualizado": "2026-10-07",
+ "eventos": [
+  {
+   "id": "rift",
+   "nome": "Spacetime Rift",
+   "cor": "#a78bfa",
+   "regra": {
+    "kind": "interval",
+    "anchor": "2026-10-07T00:00:00Z",
+    "everyMinutes": 180,
+    "durationMinutes": 10
+   },
+   "descricao": "Portal entry window (10 min), every 3 h",
+   "confianca": "confirmed"
+  },
+  {
+   "id": "shugo",
+   "nome": "Shugo Festival",
+   "cor": "#fbbf24",
+   "regra": {
+    "kind": "interval",
+    "anchor": "2026-10-07T00:00:00Z",
+    "everyMinutes": 60,
+    "durationMinutes": 10
+   },
+   "descricao": "Minigames + Defend the Shugo Merchants, every hour on the hour",
+   "confianca": "likely"
+  },
+  {
+   "id": "beritra",
+   "nome": "Beritra Air Raid",
+   "cor": "#fb7185",
+   "regra": {
+    "kind": "interval",
+    "anchor": "2026-10-07T00:30:00Z",
+    "everyMinutes": 60,
+    "durationMinutes": 10
+   },
+   "descricao": "Every hour on the half hour",
+   "confianca": "likely"
+  },
+  {
+   "id": "kaira",
+   "nome": "Watcher Kaira",
+   "cor": "#67e8f9",
+   "regra": {
+    "kind": "interval",
+    "anchor": "2026-10-07T01:00:00Z",
+    "everyMinutes": 180,
+    "durationMinutes": 30
+   },
+   "descricao": "World boss window, every 3 h (01:00, 04:00 … server time)",
+   "confianca": "likely"
+  },
+  {
+   "id": "daily",
+   "nome": "Daily reset",
+   "cor": "#4ade80",
+   "regra": {
+    "kind": "interval",
+    "anchor": "2026-10-07T07:00:00Z",
+    "everyMinutes": 1440,
+    "durationMinutes": 1
+   },
+   "descricao": "07:00 UTC (16:00 server time)",
+   "confianca": "confirmed"
+  },
+  {
+   "id": "weekly",
+   "nome": "Weekly reset",
+   "cor": "#f0c674",
+   "regra": {
+    "kind": "interval",
+    "anchor": "2026-10-07T07:00:00Z",
+    "everyMinutes": 10080,
+    "durationMinutes": 1
+   },
+   "descricao": "Wednesday 07:00 UTC",
+   "confianca": "likely"
+  }
+ ]
+}
